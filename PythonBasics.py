@@ -69,7 +69,7 @@ while boolean:
 while int == 10:
     print("While int = 10 this will run forever")
 
-######## Loop actions
+######## Loop and Conditional actions
 while True:
     pass # Does literally nothing (Used if you want an empty loop)
     break # Breaks out of the loop (Skips to the end and continues with the next code)
