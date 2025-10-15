@@ -65,9 +65,9 @@ root.mainloop()
 ## This is a finalized example scene
 
 #----------------------------------#
-img_forest = tk.PhotoImage(file="Tkinter\\Resources\\forest.png").subsample(3,3)
-img_treasure = tk.PhotoImage(file="Tkinter\\Resources\\treasure.png").subsample(3,3)
-img_death = tk.PhotoImage(file="Tkinter\\Resources\\death.png").subsample(3,3)
+img_forest = tk.PhotoImage(file="Resources\\Images\\forest.png").subsample(3,3)
+img_treasure = tk.PhotoImage(file="Resources\\Images\\treasure.png").subsample(3,3)
+img_death = tk.PhotoImage(file="Resources\\Images\\death.png").subsample(3,3)
 #----------------------------------#
 def scene_forest():
     text.configure(text= "You are in a forest, what direction do you walk to") ## Description
@@ -118,4 +118,4 @@ def scene_exit():
 
 ### So now we have 3 scenes, forest, win and loose
 ## Now all its missing its to combine everything
-"You can see the final result on Examples/SimpleRPG.py"
+"You can see the final result on Examples/TkinterRPG.py"

@@ -78,7 +78,7 @@ button.place(x=100, y=0)
 
 root.mainloop()
 #------------------------------------------------------#
-"This example is the same as SimpleTkinter.py in the examples folder"
+"This example is the same as Examples\SimpleTkinter.py"
 "In case you want to test it"
 
 "Here is the full tkinter color list --> https://cs111.wellesley.edu/archive/cs111_fall14/public_html/labs/lab12/tkintercolor.html"

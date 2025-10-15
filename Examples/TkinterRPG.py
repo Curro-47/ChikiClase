@@ -3,9 +3,9 @@ root = tk.Tk()
 root.geometry("1000x600")
 
 ## Getting the images from the Resources folder
-img_forest = tk.PhotoImage(file="Tkinter\\Resources\\forest.png").subsample(3,3) # Here subsample makes the images smaller, they were too large to fit the 1000x600 screen
-img_treasure = tk.PhotoImage(file="Tkinter\\Resources\\treasure.png").subsample(1,1)
-img_death = tk.PhotoImage(file="Tkinter\\Resources\\death.png").subsample(2,2)
+img_forest = tk.PhotoImage(file="Resources\\Images\\forest.png").subsample(3,3) # Here subsample makes the images smaller, they were too large to fit the 1000x600 screen
+img_treasure = tk.PhotoImage(file="Resources\\Images\\treasure.png").subsample(1,1)
+img_death = tk.PhotoImage(file="Resources\\Images\\death.png").subsample(2,2)
 
 ## Create all objects
 text = tk.Label(root, text="Description") # Top text
