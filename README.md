@@ -12,17 +12,6 @@ changing data types (int(), float(), str(), bool())
 
 print and input
 
+if and while        (pass, continue and break)
 
-if
-
-while
-
-pass, continue, break
-
-
-
-functions
-
-function arguments
-
-function returns
+functions           (arguments and returns)
