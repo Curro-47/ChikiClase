@@ -1,20 +1,17 @@
-Chiki Clase Tutoriales
-===
+# Chiki clase Tutoriales
+### Index
 
-Para saber que pedo esta pasando
----
+#### Python Basics
+data types          (int, float, str, bool)
+operators           (+ - * / % **)
+bool operators      (and or == != < <= >= >)
+changing data types (int(), float(), str(), bool())
+print and input
 
-###### Prueba
-##### Prueba
-#### Prueba
-### Prueba
-## Prueba
-# Prueba
-Texto
+if
+while
+pass, continue, break
 
-> a1
-> a2
->
-> a4
->
-> # a5
+functions
+function arguments
+function returns
